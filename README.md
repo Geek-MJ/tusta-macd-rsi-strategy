@@ -22,14 +22,14 @@ This Python project fetches historical cryptocurrency data from CoinGecko and ru
 
 ## Setup Instructions
 
-###1. Clone the repository
+### 1. Clone the repository
 
 ```
 git clone https://github.com/Geek-MJ/tusta-macd-rsi-strategy.git
 cd tusta-macd-rsi-strategy
 ````
 
-###2. Create and activate a virtual environment (recommended)
+### 2. Create and activate a virtual environment (recommended)
 
 On macOS/Linux:
 
@@ -44,7 +44,7 @@ python -m venv venv
 .\venv\Scripts\activate
 
 
-###3. Install dependencies
+### 3. Install dependencies
 
 ```
 pip install -r requirements.txt
